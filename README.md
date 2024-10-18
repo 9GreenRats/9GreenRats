@@ -20,8 +20,3 @@ I'm an artist and developer working at the intersection of **art** and **code**.
 
 ### 📫 How to reach me:
 - Email: contact@9greenrats.com
-
----
-
-| ![Metrics](./metrics.svg) | <img align="center" src="https://github-readme-stats.vercel.app/api?username=9GreenRats&show_icons=true&include_all_commits=true&hide_border=true" alt="9GreenRats' GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9greenRats&langs_count=8&layout=compact&hide_border=true" alt="9GreenRats' GitHub stats" /> |  
-| ------------- | ------------- | ------------- |  
