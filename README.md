@@ -1,4 +1,4 @@
 .
 
 ### 📫 How to reach me:
-- Email: contact@9greenrats.com
+- Email: 9greenrats@gmail.com
