@@ -1,83 +1,93 @@
-# Hey there! 👋 I'm 9GreenRats
+# 👋 Hey there! I'm **9GreenRats**
 
-**Artist x Developer** building modern, responsive websites and useful tools
-
-Building the web, one pixel at a time ✨
+Building modern, responsive websites and useful tools.
 
 ---
 
-## �️W Tech Stack
+## 🧠 Core Expertise
 
-**Frontend**
-- React & TypeScript
-- Tailwind CSS
-- Framer Motion
-- Vite
+### ⚙️ **Frontend Development**
+- React, Next.js (SSR/SSG, API Routes)  
+- TypeScript, JavaScript (ES6+)  
+- Tailwind CSS, Vite, Framer Motion  
+- Responsive UI/UX, PWA development  
+- Accessibility, Component-driven architecture  
 
-**Tools & Integration**
-- Node.js
-- API Integration
-- EmailJS
-- SEO Optimization
-- Performance Optimization
+### 🧩 **Backend & Databases**
+- Node.js, Express, PHP  
+- RESTful API Design, Authentication & Authorization  
+- PostgreSQL, MySQL, Supabase  
+- Database Modeling, Query Optimization  
+- File Uploads, Caching, Rate Limiting  
+
+### 🚀 **DevOps & Tooling**
+- Git, CI/CD Pipelines, Vercel  
+- Environment Configuration, Error Monitoring  
+- Performance Profiling & Optimization  
+- Cross-browser & Device Compatibility  
+
+### 💳 **Integrations & Features**
+- Payment Systems (Paystack, Stripe)  
+- Real-time Features (WebSockets, Supabase Realtime)  
+- Secure Auth Flows (JWT, OAuth)  
+- SEO Optimization & Site Migration  
+- Custom API Integrations (3rd-party services)  
 
 ---
 
 ## 🚀 Featured Projects
 
-### Client Work
-- **[Genie Energies](https://genieenergies.vercel.app/)** - Energy solutions and services platform
-- **[The Tshirt Store](https://tshirtstoreng.vercel.app/)** - Affordable tshirt micro ecommerce store
-- **[Aella Homes](https://aellahomes.vercel.app/)** - Real Estate website for Aella Homes
-- **[WLFMTY by NE8](https://ne8-by.vercel.app/)** - Hand Embroidered T-shirt Pre-order Page
-- **[The Mendoza Collection](https://the-mendoza-collection.vercel.app/)** - Perfume retail website design
-- **[Artist Portfolio Templates](https://templates.9greenrats.xyz/)** - Portfolio website template designs
-- **[$Give Token](https://www.basedgivecrypto.com/)** - Memecoin landing page
+### 🧩 Client Work
+- [**Genie Energies**](https://genieenergies.vercel.app/) — Energy solutions and services platform  
+- [**The Tshirt Store**](https://tshirtstoreng.vercel.app/) — Affordable micro e-commerce store  
+- [**Aella Homes**](https://aellahomes.vercel.app/) — Real estate website for Aella Homes  
+- [**WLFMTY by NE8**](https://ne8-by.vercel.app/) — Hand-embroidered T-shirt pre-order page  
+- [**The Mendoza Collection**](https://the-mendoza-collection.vercel.app/) — Perfume retail experience  
+- [**Artist Portfolio Templates**](https://templates.9greenrats.xyz/) — Portfolio template collection  
+- [**$Give Token**](https://www.basedgivecrypto.com/) — Memecoin landing page  
 
-### Development Tools I Built
-
-- **[Briefly](https://briefly-b9.vercel.app/)** - Design Brief Generator for designers and creative teams
-- **[Invoiced](https://invoiced-b9.vercel.app/)** - Professional Invoice Creator Tool
-- **[Frame It](https://frame-it-b9.vercel.app/)** - Digital frame and matte creation tool for artists
-- **[Shrinkr](https://shrinkr-b9.vercel.app/)** - Image optimization tool
-- **[Lamba Labs Mint Tool](https://lamba-labs.vercel.app/)** - Complete NFT PFP project composite tool with batch processing
+### ⚙️ Tools
+- [**Briefly**](https://briefly-b9.vercel.app/) — Design brief generator for creative teams  
+- [**Invoiced**](https://invoiced-b9.vercel.app/) — Professional invoice creation tool  
+- [**Frame It**](https://frame-it-b9.vercel.app/) — Digital framing and matte creator for artists  
+- [**Shrinkr**](https://shrinkr-b9.vercel.app/) — Image compression and optimization tool  
+- [**Lamba Labs Mint Tool**](https://lamba-labs.vercel.app/) — NFT batch compositing and metadata generator  
 
 ---
 
-## 💡 What I Focus On
+## 💡 Focus Areas
 
-**Design & Development**
-- Responsive web design
-- Modern React applications
-- Performance optimization
-- SEO implementation
+**Design & Development**  
+- Responsive, performant web design  
+- Scalable React/Next.js applications  
+- Code structure and performance optimization  
+- SEO and accessibility best practices  
 
-**User Experience**
-- Clean, intuitive interfaces
-- Smooth animations with Framer Motion
-- Mobile-first approach
-- Accessibility best practices
+**User Experience**  
+- Clean, intuitive UI layouts  
+- Smooth motion with Framer Motion  
+- Mobile-first approach  
+- Usability and clarity across devices  
 
-**Business Solutions**
-- E-commerce platforms
-- Real estate websites
-- Portfolio sites
-- Landing pages
-- Development tools
+**Business Solutions**  
+- E-commerce platforms  
+- Real estate and service websites  
+- Portfolios and landing pages  
+- Developer productivity tools  
 
 ---
 
 ## 📊 GitHub Stats
 
-![9GreenRats's GitHub stats](https://github-readme-stats.vercel.app/api?username=9greenrats&show_icons=true&theme=default&hide_border=true)
+![9GreenRats's GitHub stats](https://github-readme-stats.vercel.app/api?username=9greenrats&show_icons=true&hide_border=true&theme=transparent)
 
 ---
 
 ## 🤝 Connect
 
-📧 **Email:** 9greenrats@gmail.com  
-🌐 **Portfolio:** Check out my projects above  
+📧 **Email:** [9greenrats@gmail.com](mailto:9greenrats@gmail.com)  
+🌐 **Portfolio:** [9greenrats.xyz](https://9greenrats.xyz)  
 
 ---
 
-*Currently working on modern web solutions and useful developer tools*
+*Currently building modern web solutions and open-source developer tools.*
