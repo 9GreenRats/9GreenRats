@@ -29,7 +29,7 @@ Full-Stack Developer | React & Next.js Specialist
 - [**The Mendoza Collection**](https://the-mendoza-collection.vercel.app/) — Perfume retail  
 - [**$Give Token**](https://www.basedgivecrypto.com/) — Memecoin landing page  
 
-### Developer Tools
+### Tools
 - [**Briefly**](https://briefly-b9.vercel.app/) — Design brief generator  
 - [**Invoiced**](https://invoiced-b9.vercel.app/) — Invoice creation  
 - [**Frame It**](https://frame-it-b9.vercel.app/) — Digital framing tool  
