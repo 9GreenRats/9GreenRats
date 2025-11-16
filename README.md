@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 9GreenRats
+# 👋 Ayobami
 
 Full-Stack Developer | React & Next.js Specialist
 
