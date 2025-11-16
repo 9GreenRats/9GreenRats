@@ -14,9 +14,7 @@ Full-Stack Developer | React & Next.js Specialist
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion  
 **Backend:** Node.js, Express, PHP, RESTful APIs  
-**Database:** PostgreSQL, MySQL, Supabase  
-**Tools:** Git, Vercel, Vite  
-**Integrations:** Paystack, Stripe, WebSockets, OAuth
+**Database:** PostgreSQL, MySQL
 
 ---
 
