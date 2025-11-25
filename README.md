@@ -12,27 +12,9 @@ Full-Stack Developer | React & Next.js Specialist
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion  
-**Backend:** Node.js, Express, PHP, RESTful APIs  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
+**Backend:** Node.js, Express, PHP, FastAPI, RESTful APIs  
 **Database:** PostgreSQL, MySQL
-
----
-
-## 🚀 Featured Projects
-
-### Client Work
-- [**Genie Energies**](https://genieenergies.vercel.app/) — Energy solutions platform  
-- [**The Tshirt Store**](https://tshirtstoreng.vercel.app/) — E-commerce store  
-- [**Aella Homes**](https://aellahomes.vercel.app/) — Real estate website  
-- [**The Mendoza Collection**](https://the-mendoza-collection.vercel.app/) — Perfume retail  
-- [**$Give Token**](https://www.basedgivecrypto.com/) — Memecoin landing page  
-
-### Tools
-- [**Briefly**](https://briefly-b9.vercel.app/) — Design brief generator  
-- [**Invoiced**](https://invoiced-b9.vercel.app/) — Invoice creation  
-- [**Frame It**](https://frame-it-b9.vercel.app/) — Digital framing tool  
-- [**Shrinkr**](https://shrinkr-b9.vercel.app/) — Image optimization  
-- [**Lamba Labs Mint Tool**](https://lamba-labs.vercel.app/) — NFT compositing  
 
 ---
 
