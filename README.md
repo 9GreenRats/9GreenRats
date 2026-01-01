@@ -2,7 +2,7 @@
 
 # 👋 Ayobami
 
-Full-Stack Developer | React & Next.js Specialist
+Full-Stack Dev
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Building+Scalable+Applications;React+%26+Next.js+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 
