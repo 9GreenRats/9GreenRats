@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Ayobami
+# Ayobami
 
 Full-Stack Dev
 
